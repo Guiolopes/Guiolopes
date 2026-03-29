@@ -75,12 +75,29 @@ Meu foco está em construir projetos práticos e reais, que vão do tratamento d
 
 ## 📈 GitHub Stats
 
-<div align="center">
+name: Generate Snake
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guiolopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiolopes&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-</div>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Guiolopes
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <br/><br/>
 
