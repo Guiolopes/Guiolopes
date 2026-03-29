@@ -88,7 +88,7 @@ Meu foco está em construir projetos práticos e reais, que vão do tratamento d
 
 <br/>
 
-*Aberto a oportunidades de estágio e projetos colaborativos na área de dados* 🤝
+*Em bsuca da primeira oportunidade na area de dados* 🤝
 
 <br/>
 
