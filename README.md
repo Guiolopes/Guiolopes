@@ -97,7 +97,7 @@ Meu foco está em construir projetos práticos e reais, que vão do tratamento d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Lopes_Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiolopes)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-seuemail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermelopes10065@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-seuemail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](guilhermelopes10065@gmail.com)
 
 <br/>
 
