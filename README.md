@@ -82,11 +82,12 @@ Meu foco está em construir projetos práticos e reais, que vão do tratamento d
 
 </div>
 
-<div align="center">
+<br/><br/>
 
-![Snake animation](https://raw.githubusercontent.com/Guiolopes/Guiolopes/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Guiolopes&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
+
 
 ---
 
