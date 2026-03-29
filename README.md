@@ -16,13 +16,11 @@ Meu foco está em construir projetos práticos e reais, que vão do tratamento d
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 🎓 | Cursando **Ciência de Dados** na **FIAP** |
-| 🤖 | Foco em **Data Science** e **Machine Learning** |
-| 📚 | Aprendendo **Estatística avançada**, **Deep Learning** e **MLOps** |
+| 🎓 | Cursando Ciência de Dados na FIAP             |
+| 🤖 | Foco em Data Science e Machine Learning        |
+| 📚 | Aprendendo Estatística, Deep Learning e MLOps  |
 | 🎯 | Objetivo: gerar impacto real através dos dados |
-| 📍 | São Paulo, Brasil |
+| 📍 | São Paulo, Brasil  |
 
 </div>
 
