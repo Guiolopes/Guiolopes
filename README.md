@@ -14,13 +14,13 @@ Tenho **23 anos**, sou estudante de **Ciência de Dados na FIAP** e acredito que
 
 Meu foco está em construir projetos práticos e reais, que vão do tratamento de dados até modelos de **Machine Learning** em produção. Cada repositório aqui é um passo na minha jornada.
 
-<div align="center">
+<div align="left">
 
-| 🎓 | Cursando Ciência de Dados na FIAP             |
-| 🤖 | Foco em Data Science e Machine Learning        |
-| 📚 | Aprendendo Estatística, Deep Learning e MLOps  |
-| 🎯 | Objetivo: gerar impacto real através dos dados |
-| 📍 | São Paulo, Brasil  |
+🎓 &nbsp; Cursando **Ciência de Dados** na **FIAP** <br/>
+🤖 &nbsp; Foco em **Data Science** e **Machine Learning** <br/>
+📚 &nbsp; Aprendendo **Estatística Avançada**, **Deep Learning** e **MLOps** <br/>
+🎯 &nbsp; Objetivo: **gerar impacto real através dos dados** <br/>
+📍 &nbsp; São Paulo, Brasil
 
 </div>
 
