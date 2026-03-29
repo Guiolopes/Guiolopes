@@ -98,11 +98,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Guiolopes&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
 </div>
 
 
