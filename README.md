@@ -1,181 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Social%20Cluster&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Segmenta%C3%A7%C3%A3o%20Inteligente%20com%20Machine%20Learning&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Guilherme%20Lopes&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20in%20progress%20%F0%9F%9A%80&descAlignY=58&descSize=20&descColor=a8d8ea&animation=fadeIn" width="100%"/>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C9FD9&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+de+Dados+%40+FIAP+%F0%9F%8E%93;Apaixonado+por+Python%2C+ML+e+dados+%F0%9F%A4%96;Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9FD9&center=true&vCenter=true&width=620&lines=K-Means+Clustering+%7C+Python+%7C+Streamlit;Segmentando+usu%C3%A1rios+com+Machine+Learning;Do+Google+Colab+%C3%A0+aplica%C3%A7%C3%A3o+interativa+%F0%9F%9A%80)](https://git.io/typing-svg)
+</div>
 
-<br/>
+---
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 👋 Olá, eu sou o Guilherme!
+
+Tenho **23 anos**, sou estudante de **Ciência de Dados na FIAP** e acredito que dados bem interpretados têm o poder de mudar decisões — e negócios inteiros.
+
+Meu foco está em construir projetos práticos e reais, que vão do tratamento de dados até modelos de **Machine Learning** em produção. Cada repositório aqui é um passo na minha jornada.
+
+```python
+guilherme = {
+    "formação":     "Ciência de Dados — FIAP",
+    "foco":         "Data Science & Machine Learning",
+    "aprendendo":   ["Estatística avançada", "Deep Learning", "MLOps"],
+    "objetivo":     "Gerar impacto real através dos dados 📊",
+}
+```
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+**Linguagens & Dados**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Machine Learning & Análise**
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Visualização & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Ambiente**
+
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+| Projeto | Descrição | Tecnologias |
+|:---|:---|:---:|
+| 🤖 [**Social Cluster**](https://github.com/Guiolopes/social-cluster) | Segmentação de usuários de redes sociais com K-Means + app interativo | Python · Scikit-learn · Streamlit |
+| 📊 *Em breve...* | Novos projetos chegando! | — |
+
+</div>
+
+> 💡 **Todos os projetos têm foco em aplicação real** — da análise exploratória até a entrega de uma solução funcional.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guiolopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiolopes&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Guiolopes/Guiolopes/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📬 Vamos nos conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Lopes_Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-seuemail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 <br/>
 
-![Status](https://img.shields.io/badge/🚀%20Status-Concluído-28a745?style=flat-square)
-&nbsp;
-![ML](https://img.shields.io/badge/🧠%20ML-Não%20Supervisionado-blueviolet?style=flat-square)
-&nbsp;
-![Algoritmo](https://img.shields.io/badge/⚙️%20Algoritmo-K--Means-orange?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 O que é este projeto?
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 O Problema
-Em um cenário onde **dados de comportamento digital** são cada vez mais estratégicos, identificar padrões de usuários em redes sociais pode transformar decisões de negócio — mas fazer isso manualmente é inviável em larga escala.
-
-</td>
-<td width="50%">
-
-### 💡 A Solução
-O **Social Cluster** aplica o algoritmo de **Machine Learning K-Means** para segmentar automaticamente grupos de usuários com comportamentos semelhantes — e entrega isso em uma **interface web interativa**, sem necessidade de código.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Stack Tecnológica
-
-<div align="center">
-
-| Camada | Tecnologia | Função |
-|:---:|:---:|:---|
-| 🐍 | **Python 3.10+** | Linguagem principal |
-| 📊 | **Pandas** | Manipulação e limpeza de dados |
-| 🤖 | **Scikit-learn** | Implementação do K-Means |
-| 🌐 | **Streamlit** | Interface web interativa |
-| ☁️ | **Google Colab** | Prototipagem e exploração |
-| 💻 | **VS Code** | Desenvolvimento da aplicação |
-
-</div>
-
----
-
-## ⚡ Funcionalidades
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   📂  Upload de arquivo CSV           → Dados de entrada         │
-│   🔄  Processamento automático        → Pipeline de ML           │
-│   🧠  Clusterização com K-Means       → Grupos identificados     │
-│   📊  Visualização dos resultados     → Top 10 registros         │
-│   🖥️  Interface sem necessidade de código → Acessível a todos   │
-│                                                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🚀 Como Executar
-
-### 1️⃣ Clone o repositório
-```bash
-git clone https://github.com/Guiolopes/social-cluster.git
-cd social-cluster
-```
-
-### 2️⃣ Crie o ambiente virtual
-```bash
-python -m venv venv
-
-# Linux/macOS
-source venv/bin/activate
-
-# Windows
-venv\Scripts\activate
-```
-
-### 3️⃣ Instale as dependências
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Execute a aplicação
-```bash
-streamlit run app.py
-```
-
-> 🌍 Acesse em: **http://localhost:8501**
-
----
-
-## 🔮 Roadmap — Próximas Melhorias
-
-```
- ✅ MVP — Clusterização básica com K-Means
- 🔲 Gráficos de dispersão e heatmaps dos clusters
- 🔲 Escolha dinâmica do K (método Elbow automático)
- 🔲 Redução de dimensionalidade com PCA
- 🔲 Download dos resultados em CSV
- 🔲 Comparação entre algoritmos (DBSCAN, Agglomerative)
- 🔲 Deploy na nuvem via Streamlit Cloud
-```
-
----
-
-<div align="center">
-
-## 👨‍💻 Sobre o Desenvolvedor
-
-<img src="https://github.com/Guiolopes.png" width="120px" style="border-radius:50%"/>
-
-### Guilherme Lopes Oliveira
-
-**`Estudante de Ciência de Dados · FIAP · 23 anos`**
-
-> *"Transformando dados em decisões — um projeto de cada vez."*
-
-<br/>
-
-Apaixonado por **Data Science**, **Machine Learning** e por construir soluções que geram impacto real.
-Sempre em evolução, desenvolvendo projetos práticos com **Python**, análise de dados e IA.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Guiolopes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guiolopes)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+*Aberto a oportunidades de estágio e projetos colaborativos na área de dados* 🤝
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
-
-
-</div>
-
----
-
-<div align="center">
-
-Feito com 💙 por **Guilherme Lopes Oliveira**
-
-*"Dados não mentem — só precisam de alguém para ouvi-los."*
-
-</div>
-
