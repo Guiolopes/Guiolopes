@@ -1,47 +1,27 @@
-# 😎 Guilherme Oliveira 😎
+**Guilherme Lopes Oliveira**
+Estudante de Ciência de Dados · 23 anos · FIAP
 
-**`Analista de dados`**
+</div>
 
-## 👋 Sobre mim
-Me chamo Guilherme Lopes Oliveira, tenho 23 anos e sou estudante de Ciência de Dados na FIAP.
-Sou apaixonado pela área de dados e estou em constante evolução, desenvolvendo projetos práticos que envolvem análise de dados, machine learning e construção de aplicações voltadas para geração de insights.Tenho interesse especial em transformar dados em soluções reais, apoiando tomadas de decisão e criando soluções que gerem valor para negócios. Atualmente, estou focado em aprofundar meus conhecimentos em Data Science, explorando técnicas de análise, modelagem e visualização de dados.
+Sou apaixonado por transformar dados brutos em insights que geram valor real. Atualmente cursando **Ciência de Dados na FIAP**, dedico meu tempo ao desenvolvimento de projetos práticos que combinam **análise de dados**, **Machine Learning** e **engenharia de software** — sempre com foco em aplicações reais e impacto tangível.
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tableau" 
-    title="Tableau"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
-/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg"/>
-<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+Acredito que a melhor forma de aprender é construindo, e este projeto é uma prova disso: da exploração no Colab até uma aplicação funcional disponível para qualquer usuário.
 
-<br clear="left"/>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+Feito com 💙 por **Guilherme Lopes Oliveira**
+
+*"Dados não mentem — só precisam de alguém para ouvi-los."*
+
+</div>
+
