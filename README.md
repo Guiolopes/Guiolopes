@@ -14,14 +14,17 @@ Tenho **23 anos**, sou estudante de **Ciência de Dados na FIAP** e acredito que
 
 Meu foco está em construir projetos práticos e reais, que vão do tratamento de dados até modelos de **Machine Learning** em produção. Cada repositório aqui é um passo na minha jornada.
 
-```python
-guilherme = {
-    "formação":     "Ciência de Dados — FIAP",
-    "foco":         "Data Science & Machine Learning",
-    "aprendendo":   ["Estatística avançada", "Deep Learning", "MLOps"],
-    "objetivo":     "Gerar impacto real através dos dados 📊",
-}
-```
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🎓 | Cursando **Ciência de Dados** na **FIAP** |
+| 🤖 | Foco em **Data Science** e **Machine Learning** |
+| 📚 | Aprendendo **Estatística avançada**, **Deep Learning** e **MLOps** |
+| 🎯 | Objetivo: gerar impacto real através dos dados |
+| 📍 | São Paulo, Brasil |
+
+</div>
 
 ---
 
