@@ -10,16 +10,16 @@
 
 ## 👋 Olá, eu sou o Guilherme!
 
-Tenho **23 anos**, sou estudante de **Ciência de Dados na FIAP** e acredito que dados bem interpretados têm o poder de mudar decisões — e negócios inteiros.
+Sou estudante de **Ciência de Dados na FIAP** e acredito que dados bem interpretados têm o poder de mudar decisões — e negócios inteiros.
 
-Meu foco está em construir projetos práticos e reais, que vão do tratamento de dados até modelos de **Machine Learning** em produção. Cada repositório aqui é um passo na minha jornada.
+Atualmente, trabalho no **Departamento de Pessoal do Itaú**, unindo minha experiência administrativa com a análise de dados para gerar impacto real. Meu foco está em construir projetos práticos que vão do tratamento de dados até modelos de **Machine Learning** em produção.
 
 <div align="left">
 
 🎓 &nbsp; Cursando **Ciência de Dados** na **FIAP** <br/>
-🤖 &nbsp; Foco em **Data Science** e **Machine Learning** <br/>
+🤖 &nbsp; Foco em **Data Science**, **Machine Learning** e **People Analytics** <br/>
 📚 &nbsp; Aprendendo **Estatística Avançada**, **Deep Learning** e **MLOps** <br/>
-🎯 &nbsp; Objetivo: **gerar impacto real através dos dados** <br/>
+🎯 &nbsp; Objetivo: **gerar valor estratégico através dos dados** <br/>
 📍 &nbsp; São Paulo, Brasil
 
 </div>
@@ -40,7 +40,7 @@ Meu foco está em construir projetos práticos e reais, que vão do tratamento d
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-44AAAA?style=for-the-badge&logo=python&logoColor=white)
 
 **Visualização & BI**
 
@@ -48,9 +48,9 @@ Meu foco está em construir projetos práticos e reais, que vão do tratamento d
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Ambiente**
+**Ambiente & Cloud**
 
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -64,17 +64,11 @@ Meu foco está em construir projetos práticos e reais, que vão do tratamento d
 
 | Projeto | Descrição | Tecnologias |
 |:---|:---|:---:|
-| 🤖 [**Social Cluster**](https://github.com/Guiolopes/social-cluster) | Segmentação de usuários de redes sociais com K-Means + app interativo | Python · Scikit-learn · Streamlit |
-| 📊 *Em breve...* | Novos projetos chegando! | — |
+| 💄 [**Opuline Beauty**](https://github.com/seu-link) | Dashboard de BI com análise de R$ 714k em faturamento e projeções preditivas para 2025. | Power BI · ETL |
+| 🤖 [**Social Cluster**](https://github.com/Guiolopes/social-cluster) | Segmentação de usuários de redes sociais com K-Means + app interativo. | Python · Scikit-learn · Streamlit |
+
 
 </div>
-
-> 💡 **Todos os projetos têm foco em aplicação real** — da análise exploratória até a entrega de uma solução funcional.
-
----
-
-</div>
-
 
 ---
 
@@ -82,13 +76,13 @@ Meu foco está em construir projetos práticos e reais, que vão do tratamento d
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Lopes_Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiolopes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guiolopes)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-guilhermelopes10065.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](guilhermelopes10065@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-guilhermelopes10065-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermelopes10065@gmail.com)
 
 <br/>
 
-*Em bsuca da primeira oportunidade na area de dados* 🤝
+*Transição de carreira: Do RH para o fascinante mundo dos Dados* 🚀
 
 <br/>
 
