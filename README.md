@@ -64,8 +64,8 @@ Atualmente, trabalho no **Departamento de Pessoal do Itaú**, unindo minha exper
 
 | Projeto | Descrição | Tecnologias |
 |:---|:---|:---:|
-| 💄 [**Opuline Beauty**]([https://github.com/seu-link](https://github.com/Guiolopes/Opuline-dashbord)) | Dashboard de BI com análise de R$ 714k em faturamento e projeções preditivas para 2025. | Power BI · ETL |
-| 🤖 [**Social Cluster**]([https://github.com/Guiolopes/social-cluster](https://github.com/Guiolopes/customer-segmentation-kmeans)) | Segmentação de usuários de redes sociais com K-Means + app interativo. | Python · Scikit-learn · Streamlit |
+| 💄 [**Opuline Beauty**](https://github.com/Guiolopes/Opuline-dashbord) | Dashboard de BI com análise de R$ 714k em faturamento e projeções preditivas para 2025. | Power BI · ETL |
+| 🤖 [**Social Cluster**](https://github.com/Guiolopes/customer-segmentation-kmeans) | Segmentação de usuários de redes sociais com K-Means + app interativo. | Python · Scikit-learn · Streamlit |
 
 
 </div>
