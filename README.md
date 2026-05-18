@@ -66,6 +66,8 @@ Atualmente, trabalho no **Departamento de Pessoal do Itaú**, unindo minha exper
 |:---|:---|:---:|
 | 💄 [**Opuline Beauty**](https://github.com/Guiolopes/Opuline-dashbord) | Dashboard de BI com análise de R$ 714k em faturamento e projeções preditivas para 2025. | Power BI · ETL |
 | 🤖 [**Social Cluster**](https://github.com/Guiolopes/customer-segmentation-kmeans) | Segmentação de usuários de redes sociais com K-Means + app interativo. | Python · Scikit-learn · Streamlit |
+| 🤖 [**Classificação com Árvore de Decisão**](https://github.com/Guiolopes/-Valida-o-e-M-tricas-em-Machine-Learning) | Este projeto aplica uma árvore de decisão para prever inadimplência, utilizando validação estratificada para divisão dos dados, e validação cruzada para garantir robustez.| Python · Scikit-learn · Pandas |
+| 🤖 [**Predição de Status Acadêmico com Balanceamento de Classes**](https://github.com/Guiolopes/Classifica-o-Multiclasse-de-Estudantes-com-Machine-Learning) |Projeto de classificação multiclasse para previsão do status acadêmico de estudantes universitários, envolvendo análise exploratória de dados (EDA), balanceamento de classes com SMOTE e validação cruzada estratificada para otimização do desempenho preditivo..| Python · Scikit-learn ·Matplotlib·Pandas· Seaborn·imblearn |
 
 
 </div>
